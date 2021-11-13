@@ -560,6 +560,7 @@ img
 {
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
+
 }
 
 .skills_bar,
@@ -587,7 +588,7 @@ img
 
 .skills_c
 {
-    width: 25%;
+    width: 35%;
 }
 
 .skills_js
@@ -602,7 +603,7 @@ img
 
 .skills_flutter
 {
-    width: 40%;
+    width: 45%;
 }
 
 .skills_html
@@ -633,6 +634,7 @@ img
     height: max-content;
     margin-bottom: var(--mb-2-5)
 }
+
 
 
 
