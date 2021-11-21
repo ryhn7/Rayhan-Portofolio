@@ -29,8 +29,8 @@ tabs.forEach(tab => {
 /*==================== SERVICES MODAL ====================*/
 
 
-/*==================== PORTFOLIO SWIPER  ====================*/
-let swiper = new Swiper(".portofolio_container", {
+/*==================== PERSONAL SWIPER  ====================*/
+let swiper = new Swiper(".personal_container", {
     cssMode: true,
     loop: true,
 
