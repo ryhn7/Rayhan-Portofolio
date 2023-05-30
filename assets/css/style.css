@@ -515,7 +515,19 @@ img {
 }
 
 .skills_js {
-    width: 10%;
+    width: 60%;
+}
+
+.skills_php {
+    width: 50%;
+}
+
+.skills_java {
+    width: 35%;
+}
+
+.skills_kotlin {
+    width: 45%;
 }
 
 .skills_dart {
@@ -523,19 +535,39 @@ img {
 }
 
 .skills_flutter {
+    width: 40%;
+}
+
+.skills_net {
+    width: 40%;
+}
+
+.skills_express {
+    width: 35%;
+}
+
+.skills_laravel {
+    width: 60%;
+}
+
+.skills_andro {
     width: 45%;
 }
 
 .skills_html {
-    width: 40%;
+    width: 70%;
 }
 
 .skills_css {
-    width: 40%;
+    width: 70%;
 }
 
 .skills_photoshop {
-    width: 35%;
+    width: 45%;
+}
+
+.skills_figma {
+    width: 45%;
 }
 
 .skills_container .skills_list {
